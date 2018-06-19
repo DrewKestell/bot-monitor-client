@@ -1,1 +1,1 @@
-# bot-monitor-api
+# bot-monitor-client

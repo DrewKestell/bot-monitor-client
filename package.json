@@ -75,7 +75,7 @@
   "version": "0.1.0",
   "description": "Bot Monitor",
   "main": "server.js",
-  "repository": "git@github.com:DrewKestell/bot-monitor-api.git",
+  "repository": "git@github.com:DrewKestell/bot-monitor-client.git",
   "author": "Drew Kestell <drew.kestell@gmail.com>",
   "license": "MIT"
 }
