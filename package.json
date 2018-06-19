@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "api": "node ratingsAPI.js",
     "format": "prettier --write --single-quote --print-width=120 --parser=flow --tab-width=2 \"js**/*.{js,jsx}\"",
     "lint": "eslint **/*.{js,jsx}",
     "build": "webpack",
@@ -72,11 +71,11 @@
     "webpack-cli": "^2.1.2",
     "webpack-dev-server": "2.4.5"
   },
-  "name": "complete-intro-to-react",
-  "version": "3.0.0",
-  "description": "A Complete Intro to React workshop",
+  "name": "bot-monitor",
+  "version": "0.1.0",
+  "description": "Bot Monitor",
   "main": "server.js",
-  "repository": "git@github.com:btholt/complete-intro-to-react.git",
-  "author": "Brian Holt <btholt@gmail.com>",
+  "repository": "git@github.com:DrewKestell/bot-monitor-api.git",
+  "author": "Drew Kestell <drew.kestell@gmail.com>",
   "license": "MIT"
 }
